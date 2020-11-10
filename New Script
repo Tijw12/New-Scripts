@@ -1,0 +1,6 @@
+#!system/bin/sh
+echo ""
+echo "Menggunakan bahasa pemrogaman sh"
+echo ""
+echo "Haiii"
+sleep 3
